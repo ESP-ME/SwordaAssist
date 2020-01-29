@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  AssistData.cpp
+  GameControlThread.cpp
+  MemeryTamperingService.cpp
+  Spirit.cpp
+  SpiritAutoProtect.cpp
+  SwordaAssist.cpp
+  正在生成代码
+  All 56 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SwordaAssist.vcxproj -> D:\VS 2017\SwordaAssist\Release\SwordaAssist.exe
